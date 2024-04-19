@@ -1,0 +1,13 @@
+{
+  "name": "auth-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev:web": "pnpm --filter web dev",
+    "dev:server": "pnpm --filter server start:dev"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
